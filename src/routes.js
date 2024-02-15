@@ -37,27 +37,27 @@ const dashboardRoutes = [
     component: Administrators,
     layout: "/admin"
   },
-  {
-    path: "/Member",
-    name: "Membres",
-    icon: "nc-icon nc-single-02",
-    component: Member,
-    layout: "/admin"
-  },
-  {
-    path: "/table",
-    name: "Session",
-    icon: "nc-icon nc-notes",
-    component: Sessions,
-    layout: "/admin"
-  },
-  {
-    path: "/typography",
-    name: "Exercices",
-    icon: "nc-icon nc-paper-2",
-    component: Exercises,
-    layout: "/admin"
-  },
+  // {
+  //   path: "/Member",
+  //   name: "Membres",
+  //   icon: "nc-icon nc-single-02",
+  //   component: Member,
+  //   layout: "/admin"
+  // },
+  // {
+  //   path: "/table",
+  //   name: "Session",
+  //   icon: "nc-icon nc-notes",
+  //   component: Sessions,
+  //   layout: "/admin"
+  // },
+  // {
+  //   path: "/typography",
+  //   name: "Exercices",
+  //   icon: "nc-icon nc-paper-2",
+  //   component: Exercises,
+  //   layout: "/admin"
+  // },
 
   // {
   //   path: "/user",
