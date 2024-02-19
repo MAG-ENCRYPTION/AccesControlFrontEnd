@@ -38,11 +38,11 @@ function Sidebar({ color, image, routes }) {
       <div className="sidebar-wrapper">
         <div className="logo d-flex align-items-center justify-content-start">
           
-            <div >
+            {/* <div >
               <img src={require("assets/img/logo.png")} alt="..." style = {{width:"55px", height: "55px"}} />
-            </div>
+            </div> */}
           <a className="simple-text" href="#">
-            ENSPY MUTUELLE
+            Obervatoire
           </a>
         </div>
         <Nav>

@@ -8,6 +8,7 @@
     "chartist": "0.11.4",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.9",
+    "net": "^1.0.2",
     "react": ">=16.8.0",
     "react-bootstrap": "2.4.0",
     "react-chartist": "0.14.4",
@@ -17,7 +18,11 @@
     "react-router-dom": "5.2.0",
     "react-scripts": "5.0.1",
     "reactstrap": "8.8.1",
-    "sass": "1.53.0"
+    "sass": "1.53.0",
+    "socket.io-client": "^4.7.4",
+    "sockjs-client": "^1.6.1",
+    "socks-client": "^1.1.4",
+    "stompjs": "^2.3.3"
   },
   "optionalDependencies": {
     "jquery": "3.5.1",
